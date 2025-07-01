@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/3mul0r-stagehand-mcp-badge.png)](https://mseep.ai/app/3mul0r-stagehand-mcp)
+
 # Stagehand MCP
 
 A Model Context Protocol (MCP) server that provides AI-driven web browser automation using the Stagehand library with local browser support.
